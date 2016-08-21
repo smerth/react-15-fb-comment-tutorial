@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Peter Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1464498959965,
+        "author": "Mashima Shallahar",
+        "text": "I am a react fan."
+    },
+    {
+        "id": 1464638283559,
+        "author": "Bot",
+        "text": "comment"
+    },
+    {
+        "id": 1464638291759,
+        "author": "Stpehen",
+        "text": "soemthing"
+    },
+    {
+        "id": 1464641402451,
+        "author": "Hank Williams",
+        "text": "I am really digging this"
+    },
+    {
+        "id": 1465599782535,
+        "author": "Henry Shank",
+        "text": "Where's the beef"
+    },
+    {
+        "id": 1469582810400,
+        "author": "Smerth",
+        "text": "This is a comment"
+    }
+]
